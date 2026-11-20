@@ -145,7 +145,7 @@ word-spacing: 3px;
 /* start footer home section  */
 .contactus-home{
 min-height:500px;
-background-image: url(./media/contactus.gif);
+background-image: url(./media/contact.gif);
 background-size:cover;
 text-align: center;
 display:flex;
